@@ -1,0 +1,10 @@
+.vs/
+*.csproj
+*.sln
+*.token
+obj/
+bin/
+*.resx
+packages*
+*.config
+properties*
